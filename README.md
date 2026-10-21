@@ -57,12 +57,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arhm-Iqbal&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7F5AF0&text_color=C9D1D9&ring_color=2CB1BC" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arhm-Iqbal&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7F5AF0&text_color=C9D1D9&hide_rank=true" height="170" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arhm-Iqbal&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9" height="170" alt="Top languages" />
 </p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/7F5AF0/Arhm-Iqbal" width="100%" alt="Contribution chart" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:2CB1BC,100:7F5AF0&height=120&section=footer" width="100%" alt="" />
