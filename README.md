@@ -1,8 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB1BC,100:00F5D4&height=220&section=header&text=Arhm%20Iqbal&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Neuroscience%20%C3%97%20Software&descSize=22&descAlignY=58&animation=fadeIn" width="100%" alt="Arhm Iqbal" />
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=00F5D4&center=true&vCenter=true&width=680&lines=Honours+Neuroscience+%40+University+of+Alberta;Full-stack+apps+%E2%80%A2+data+pipelines+%E2%80%A2+research+tools;Hackathon+builder+based+in+Edmonton;From+brain+science+to+Next.js+and+back" alt="Typing intro" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB1BC,100:00F5D4&height=220&section=header&text=Arhm%20Iqbal&fontSize=64&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%" alt="Arhm Iqbal" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Edmonton%2C%20AB-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00F5D4" alt="Edmonton" />
@@ -12,10 +8,11 @@
 
 ## <img src="https://img.shields.io/badge/-%20-7F5AF0?style=flat-square" height="18" /> About me
 
-- 🧠 Honours Neuroscience student researching how the brain regulates feeding and energy balance
-- 🧪 I turn messy lab data into reproducible pipelines, figures and analysis tools
-- 🌐 I build full-stack web apps with TypeScript, React and Next.js, backed by Supabase and Python APIs
-- 🏆 I enter hackathons to ship fast: civic tech, AI auditing and health tools
+Hi, I'm Arhm, a third-year Honours Neuroscience student at the University of Alberta in Edmonton.
+
+- I do undergraduate neuroscience research on how the brain regulates feeding and energy balance.
+- Outside the lab, I build web apps and data analysis tools, and I take part in hackathons.
+- More about my experience is on my [LinkedIn](https://www.linkedin.com/in/arhm-iqbal-ab62a1326).
 
 ## <img src="https://img.shields.io/badge/-%20-2CB1BC?style=flat-square" height="18" /> Languages
 
@@ -42,15 +39,7 @@
   <img src="https://img.shields.io/badge/KiCad-5A6FD6?style=flat-square&logo=kicad&logoColor=white" alt="KiCad" />
 </p>
 
-## <img src="https://img.shields.io/badge/-%20-7F5AF0?style=flat-square" height="18" /> Featured projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**Basirah**](https://github.com/Arhm-Iqbal/Basirah) | Privacy-first reporting and community support for Muslims facing hate in Canada. Built for The Harvest Anti-Muslim Hate Hackathon. | ![TypeScript](https://img.shields.io/badge/TypeScript-7F5AF0?style=flat-square&logo=typescript&logoColor=white) |
-| [**Evidence Poverty Auditor**](https://github.com/Arhm-Iqbal/evidence-poverty-auditor) | Audits AI drug-discovery recommendations to flag high-confidence predictions resting on thin evidence, especially for neglected tropical diseases. 2026 STEM Fellowship Big Data Challenge. | ![Python](https://img.shields.io/badge/Python-2CB1BC?style=flat-square&logo=python&logoColor=white) |
-| [**Vibe-Maxxing**](https://github.com/Arhm-Iqbal/Vibe-Maxxing) | Built for the Sillycon UAIS Hackathon. | ![Python](https://img.shields.io/badge/Python-00F5D4?style=flat-square&logo=python&logoColor=0D1117) |
-
-## <img src="https://img.shields.io/badge/-%20-2CB1BC?style=flat-square" height="18" /> Activity
+## <img src="https://img.shields.io/badge/-%20-7F5AF0?style=flat-square" height="18" /> Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Arhm-Iqbal&background=0D1117&border=7F5AF0&ring=7F5AF0&fire=00F5D4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F5D4&sideLabels=2CB1BC&dates=8B949E&stroke=30363D&hide_border=true" alt="GitHub streak" />
