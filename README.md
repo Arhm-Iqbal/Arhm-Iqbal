@@ -46,4 +46,3 @@ Hi, I'm Arhm, an Honours Neuroscience student at the University of Alberta. I li
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arhm-Iqbal&layout=compact&hide_border=true&bg_color=000000&title_color=F2F2F2&text_color=C9C9C9" height="170" alt="Top languages" />
 </p>
 
-<img src="assets/footer.svg" width="100%" alt="" />
