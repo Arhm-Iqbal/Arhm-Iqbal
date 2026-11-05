@@ -1,4 +1,4 @@
-<img src="assets/header.svg" width="100%" alt="Arhm Iqbal" />
+<img src="assets/header.svg?v=original-6cf5ae3" width="100%" alt="Arhm Iqbal" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Edmonton%2C%20AB-000000?style=for-the-badge&logo=googlemaps&logoColor=F2F2F2" alt="Edmonton" />
